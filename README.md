@@ -17,7 +17,7 @@ you can also specify the name of the output file in bash script.
 chmod +x datasetCreator.php
 ./datasetCreator.php
 
-php avrageCalculator.php
+php -d extension=parallel calculateAverage.php > final.txt
 ```
 
 # Requirements
