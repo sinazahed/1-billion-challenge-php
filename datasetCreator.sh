@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Number of rows to generate
-num_rows=1328566  # 1 billion 
+num_rows=1000000000  # 1 billion 
 num_processes=1      # Number of parallel processes
 
 # Function to generate a random station name
